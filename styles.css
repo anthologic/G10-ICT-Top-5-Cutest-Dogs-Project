@@ -1,0 +1,23 @@
+body{
+background-color: darkgreen;
+color: floralwhite;
+font-family: monospace;
+}
+img{
+width: 40%;
+margin-left: 30%;
+}
+h1 {
+font-weight: bold;
+text-align: center;
+}
+h2 {
+text-align: center;
+}
+p {
+text-align: center;
+}
+.disclaimer {
+font-family: Consolas;
+font-size: 10px;
+}
